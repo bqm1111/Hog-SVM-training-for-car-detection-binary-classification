@@ -1,5 +1,4 @@
 # Hog-SVM-training-for-car-detection-binary-classification
-# Haha
 This is my project to classify input images into 2 subset which is car and non-car
 How to use: After running program please note that:
 - press n to see the next picture
