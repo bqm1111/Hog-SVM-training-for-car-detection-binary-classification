@@ -1,5 +1,6 @@
 # Hog-SVM-training-for-car-detection-binary-classification
 This is my project to classify input images into 2 subset which is car and non-car
+Cardata.rar contains training images and test images for my work. Read Readme.txt inside this folder for more information about the use of it
 How to use: After running program please note that:
 - press n to see the next picture
 - press b to see the previous picture
